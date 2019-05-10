@@ -1,0 +1,123 @@
+[submodule "Roads/Avenues/AsymAvenue5L/AsymAvenueL2R3"]
+	path = Roads/Avenues/AsymAvenue5L/AsymAvenueL2R3
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/Avenues/AsymAvenue5L/Textures"]
+	path = Roads/Avenues/AsymAvenue5L/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/Avenues/AsymAvenue6L/AsymAvenueL2R4"]
+	path = Roads/Avenues/AsymAvenue6L/AsymAvenueL2R4
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/Avenues/AsymAvenue6L/Textures"]
+	path = Roads/Avenues/AsymAvenue6L/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/Avenues/LargeAvenue8LM/Textures"]
+	path = Roads/Avenues/LargeAvenue8LM/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/Avenues/MediumAvenue4L/Textures"]
+	path = Roads/Avenues/MediumAvenue4L/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/Avenues/MediumAvenue4LTL/Textures"]
+	path = Roads/Avenues/MediumAvenue4LTL/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/BusRoads/Busway2L/Textures"]
+	path = Roads/BusRoads/Busway2L/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/BusRoads/Busway2L/Textures_Grass"]
+	path = Roads/BusRoads/Busway2L/Textures_Grass
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/BusRoads/Busway2L1W/Textures"]
+	path = Roads/BusRoads/Busway2L1W/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/BusRoads/Busway2L1W/Textures_Grass"]
+	path = Roads/BusRoads/Busway2L1W/Textures_Grass
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/BusRoads/Busway6L/Textures"]
+	path = Roads/BusRoads/Busway6L/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/BusRoads/Busway6L/Textures_Grass"]
+	path = Roads/BusRoads/Busway6L/Textures_Grass
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/Highways/Common/Meshes/16m"]
+	path = Roads/Highways/Common/Meshes/16m
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/Highways/Common/Meshes/24m"]
+	path = Roads/Highways/Common/Meshes/24m
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/Highways/Common/Meshes/28m"]
+	path = Roads/Highways/Common/Meshes/28m
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/Highways/Common/Meshes/32m"]
+	path = Roads/Highways/Common/Meshes/32m
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/Highways/Highway1L/Textures"]
+	path = Roads/Highways/Highway1L/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/Highways/Highway2L/Textures"]
+	path = Roads/Highways/Highway2L/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/Highways/Highway3L"]
+	path = Roads/Highways/Highway3L
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/Highways/Highway3LBarrier"]
+	path = Roads/Highways/Highway3LBarrier
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/Highways/Highway5L/Textures"]
+	path = Roads/Highways/Highway5L/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/Highways/Highway6L/Textures"]
+	path = Roads/Highways/Highway6L/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/PedestrianRoads/BoardwalkTiny/Textures"]
+	path = Roads/PedestrianRoads/BoardwalkTiny/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/PedestrianRoads/Common/Textures"]
+	path = Roads/PedestrianRoads/Common/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/PedestrianRoads/Gravel"]
+	path = Roads/PedestrianRoads/Gravel
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/PedestrianRoads/GravelTiny"]
+	path = Roads/PedestrianRoads/GravelTiny
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/PedestrianRoads/Pavement"]
+	path = Roads/PedestrianRoads/Pavement
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/PedestrianRoads/PavementTiny"]
+	path = Roads/PedestrianRoads/PavementTiny
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/PedestrianRoads/Promenade/Textures"]
+	path = Roads/PedestrianRoads/Promenade/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/PedestrianRoads/StoneTiny/Textures"]
+	path = Roads/PedestrianRoads/StoneTiny/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/SmallHeavyRoads/AsymRoadL1R2/Textures"]
+	path = Roads/SmallHeavyRoads/AsymRoadL1R2/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/SmallHeavyRoads/AsymRoadL1R3/Textures"]
+	path = Roads/SmallHeavyRoads/AsymRoadL1R3/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/SmallHeavyRoads/BasicRoadTL/Textures"]
+	path = Roads/SmallHeavyRoads/BasicRoadTL/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/SmallHeavyRoads/OneWay4L/Textures"]
+	path = Roads/SmallHeavyRoads/OneWay4L/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/SmallRoads/BasicRoadMdn/Textures"]
+	path = Roads/SmallRoads/BasicRoadMdn/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/SmallRoads/BasicRoadPntMdn/Textures"]
+	path = Roads/SmallRoads/BasicRoadPntMdn/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/TinyRoads/Alley2L/Textures"]
+	path = Roads/TinyRoads/Alley2L/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/TinyRoads/Oneway1L/Textures"]
+	path = Roads/TinyRoads/Oneway1L/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/TinyRoads/Oneway1LParking/Textures"]
+	path = Roads/TinyRoads/Oneway1LParking/Textures
+	url = https://github.com/EIGHTFINITE/void
+[submodule "Roads/TinyRoads/Plain2L"]
+	path = Roads/TinyRoads/Plain2L
+	url = https://github.com/EIGHTFINITE/void

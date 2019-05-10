@@ -1,0 +1,3 @@
+* text=false
+.gitattributes export-ignore
+.gitmodules export-ignore
